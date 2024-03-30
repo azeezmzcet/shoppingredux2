@@ -1,0 +1,38 @@
+{
+    "products": [
+        {"id":0,
+        "name":"IPhone 15pro",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0QboG6JWTOSRKDEuU6tgTCOoqjDSIapL1A&usqp=CAU",
+        "price":125799},
+
+
+        {"id":1,
+        "name":"Samsung ultra",
+        "image":"https://images.samsung.com/in/smartphones/galaxy-s24-ultra/buy/product_color_gray.png",
+        "price":93349},
+
+
+        {"id":2,
+        "name":"Macbook",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtBZ_BgLugqaaPHafV9nMeYLG4fuS2U3dJnQ&usqp=CAU",
+        "price":111499},
+
+
+        {"id":3,
+        "name":"Headset",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdBvEuDrFFh61ajIbZtQFAltKHrZ5hMd-GWQ&usqp=CAU",
+        "price":1999},
+
+        {"id":4,
+        "name":"Speaker",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn99DM-k1UQaqmx_jUB1BcE2851rFR1CLZaw&usqp=CAU",
+        "price":4599},
+
+        {"id":5,
+        "name":"TV",
+        "image":"https://gizmodo.com.au/wp-content/uploads/2022/07/TCL-C845-TV-BUYING-GUIDE.jpeg?quality=75",
+        "price":76499}
+     
+    ]
+  }
+  
